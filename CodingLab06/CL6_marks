@@ -1,0 +1,12 @@
+3/3 points: Read in data, re-centered, and converted units for x, y, and yerr
+2/2 points: unit test 1
+2/2 points: unit test 2
+3/3 points: Properly sampled priors using numpy (correct bounds, adequately dense sampling)
+2/3 points: Correct implementation of "posterior" equation
+2/3 points: Correctly marginalized over all parameters but epsilon
+1/2 points: Well formatted plots for marginalized distributions for epsilon (axis labels)
+2/2 points: Compared evidences and commented on which model was preferred
+2/2 points: Well formatted contour plot for alpha vs beta (axis and colour bar labels)
+4/4 points: Well formatted MAP plots (labels, errorbars, reasonable fits)
+0/2 points: Correctly computed evidences
+Total. 23/28
