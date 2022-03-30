@@ -1,0 +1,17 @@
+6/6 points: implement MH algorithm (3 steps x2)
+4/4 points: bayesian part: prior 1, posterior 1, likelihood 2
+3/5 points: plotting (labels, legends, data representation, axes units)
+
+5/5 points: data fitting (any method)
+5/5 points: plotting 
+
+5/5 points: emcee implementation (guess values, initial parameters, implementation)
+5/5 points: Bayesian part (prior 1, posterior 1, likelihood 3)
+0/5 points: corner plot
+5/5 points: outlier detection figure (labels, legends, data rep, axes units, verify outlier)
+
+0/5 points: emcee :(guess Vals 2, init param 2, implementation 1)
+0/6 points: Bayesian (prior 2, posterior 2, likelihood 2)
+0/4 points: corner plot
+
+Total: 38/60
