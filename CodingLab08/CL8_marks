@@ -1,0 +1,9 @@
+Q1,  6/6 points: 2 each strain, 2 axis labels
+Q2,  8/8 points: 1 horiz freq, 1 Blackman-Harris, 1 normalize taper, 1 np.fft.fft, 1 np.abs, 3 plot (2 curves,1 axes)
+Q3a, 8/8 points: 2 each spectral density, 2 each axis labels
+Q3c, 6/8 points: 2 each spectral density, 2 each axis labels
+Q4,  8/8 points: 2 each spectrogram, 2 axis, 2 plots
+Q5,  10/10 points: 2 whitening, 8 plots (2 each spectrogram, 2 axes, 2 plots)
+Q6,  6/8 points: 2 fmin fmax, 6 plot (2 each strain, 2 axis labels)
+Q7,  3/3 points: 1 whitening, 1 bp filter, 1 freq shift
+Total: 55/59
